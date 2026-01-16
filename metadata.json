@@ -1,0 +1,5 @@
+{
+  "name": "Vehicle Fines Consultant",
+  "description": "A React frontend to consult vehicle fines via a Python/Playwright backend.",
+  "requestFramePermissions": []
+}
